@@ -9,6 +9,10 @@ public class Main {
         Student student1 = new Student("hosein", "yadollahi", "1401012268056");
         Student student2 = new Student("amirMohammad", "Sepehri", "1401012268032");
         Student student3 = new Student("pedram", "tbdgt", "1401012268005");
+        Student student4 = new Student("Amir", "Khodaverdi", "1401012268015");
+        Student student5 = new Student("Aghigh", "Farahnak", "1400012268020");
+        Student student6 = new Student("arefeh", "soltani", "1403112268002");
+        Student student7 = new Student("zohre", "goli", "1401020111029");
 
         System.out.println("1.sort by firstname\n" +
                 "2.sort by lastname\n" +
